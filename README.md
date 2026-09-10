@@ -34,7 +34,7 @@ I enjoy working with real-world datasets, uncovering patterns, building visualiz
 ### 📫 Connect With Me
 
 * **Email:** [ahmedkaafi012@gmail.com](mailto:ahmedkaafi012@gmail.com)
-* **GitHub:** github.com/ADKaafi
+* **GitHub:** [@ADKaafi](https://github.com/ADKaafi)
 
 ---
 
